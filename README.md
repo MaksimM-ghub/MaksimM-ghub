@@ -5,8 +5,9 @@
 В настоящий момент активно ищу работу в качестве стажера\джуниор разработчика.
 ## 📫 Контакты
 - ✉️ [Email](mailto:maltsevms8@ya.ru)
-- 📱 [Telegram](https://t.me/maltsevms)
-- [![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/maltsevm8)
+[![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/maltsevm8)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maltsevms)
+
 
 
 
