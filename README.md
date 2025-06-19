@@ -6,7 +6,7 @@
 ## 📫 Контакты
 - ✉️ [Email](mailto:maltsevms8@ya.ru)
 - 📱 [Telegram](https://t.me/maltsevms)
-- [![ВКонтакте](https://upload.wikimedia.org/wikipedia/commons/5/51/VK.com-logo.svg)](https://vk.com/maltsevm8)
+- ![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)(https://vk.com/maltsevm8)
 
 
 ## ⚡Технологии
